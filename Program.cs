@@ -4,7 +4,7 @@ namespace tp4 {
   public interface Comparable // hacer la interface publica permite usarla en cualquier namespace.
   {
     bool sosIgual(Comparable c); //toda interface se asume public. Esta bien sin especificar
-    bool sosMenor(Comparable c);i
+    bool sosMenor(Comparable c);
     bool sosMayor(Comparable c);
   }
   // actividad 1 tp2

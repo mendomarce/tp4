@@ -1,0 +1,16 @@
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.exe
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.deps.json
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.runtimeconfig.json
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.runtimeconfig.dev.json
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.dll
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\bin\Debug\net5.0\tp4.pdb
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.csproj.AssemblyReference.cache
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.GeneratedMSBuildEditorConfig.editorconfig
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.AssemblyInfoInputs.cache
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.AssemblyInfo.cs
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.csproj.CoreCompileInputs.cache
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.dll
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\refint\tp4.dll
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.pdb
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\tp4.genruntimeconfig.cache
+H:\google drive\Unaj\2022\Segundo cuatrimestre\Metodologia de programacion\actividades y codigo\tp4\obj\Debug\net5.0\ref\tp4.dll
